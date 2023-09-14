@@ -24,8 +24,8 @@ const PaginaContacto = () => {
       return;
     }
 
-    // Aquí puedes realizar acciones con los datos, como enviarlos a un servidor
-    // En este ejemplo, solo imprimiremos los valores en la consola.
+    // aca se pueden realizar acciones con los datos
+    
     console.log('Nombre:', nombre);
     console.log('Correo:', correo);
     console.log('Mensaje:', mensaje);
