@@ -18,9 +18,9 @@ const PaginaContacto = () => {
     if (!nombre || !correo || !mensaje) {
       setError(true);
       //aca se puede ver en consola que valores toman
-      console.log('nombre', !nombre);
-      console.log('correo',!correo);
-      console.log('mensaje',!mensaje);
+      // console.log('nombre', !nombre);
+      // console.log('correo',!correo);
+      // console.log('mensaje',!mensaje);
       return;
     }
 
